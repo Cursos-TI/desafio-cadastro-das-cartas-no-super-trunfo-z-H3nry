@@ -30,7 +30,7 @@ int main() {
     int NumeroDaPopulação_daCidade1,NumeroDePontosTuristicos_daCidade1;
     //* Numero da população e o numero de pontos turisticos da cidade1 (carta1)
 
-    double Area_DaCidade1,PIB_daCidade1;
+    float Area_DaCidade1,PIB_daCidade1;
     //* A Aréa em km2 e PIB da cidade1 (carta1)
 
 
@@ -42,7 +42,7 @@ int main() {
     int NumeroDaPopulação_daCidade2,NumeroDePontosTuristicos_daCidade2;
     //* Numero da população e o numero de pontos turisticos da cidade2 (carta2)
 
-    double Area_DaCidade2,PIB_daCidade2;
+    float Area_DaCidade2,PIB_daCidade2;
     //* A Aréa em km2 e PIB da cidade2 (carta2)
 
 
