@@ -25,7 +25,7 @@ int main() {
 
     // --- Informações da cidade1:
 
-    char NomeDaCidade1;
+    char NomeDaCidade1[50];
 
     int NumeroDaPopulação_daCidade1,NumeroDePontosTuristicos_daCidade1;
     //* Numero da população e o numero de pontos turisticos da cidade1 (carta1)
@@ -37,7 +37,7 @@ int main() {
 
     // --- Informações da cidade2:
 
-    char NomeDaCidade2;
+    char NomeDaCidade2[50];
 
     int NumeroDaPopulação_daCidade2,NumeroDePontosTuristicos_daCidade2;
     //* Numero da população e o numero de pontos turisticos da cidade2 (carta2)
