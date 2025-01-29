@@ -21,6 +21,8 @@ int main() {
 
     //**[Atividade nível Basico]**
 
+    //Obs: O Codigo funcionou no VScode | menos no github CodesSpace
+
 
 
     // --- Informações da cidade1:
